@@ -36,7 +36,7 @@ In the customer database, with the client module installed, create a new request
 
 # About plant.id
 
-[Plant.id](https://plant.id) is an API that allows you to identify plants based on a single (or multiple) pictures.
+[Plant.id](https://plant.id) is an API that allows you to identify plants based on a single (or multiple) pictures as well as other metadata (e.g. geographic coordinates, etc. - though this demo only uses a single image to keep things simple).
 
 They agreed to provide me with an API key for the purpose of this demo. Obviously, you should *not* contact them do to the same unless you intent to use the service for real.
 
